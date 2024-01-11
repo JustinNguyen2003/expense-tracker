@@ -2,8 +2,7 @@ const mongoose = require('mongoose');
 
 const connectDB = async () => {
     try{
-        const conn = mongoose.connect(process.env.MONGO_URI,
-            {useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true}); //will return a promise
+        const conn = await mongoose.connect(process.env.MONGO_URI); //will return a promise
 
             console.log(`MongoDB has been connected: ${conn.connection.host}`.cyan.underline.bold);
     }
