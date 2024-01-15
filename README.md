@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-###STEPS TO START EXPENSE TRACKER WEB APP
+### STEPS TO START EXPENSE TRACKER WEB APP
 1. Clone repo to your PC
 2. Open repo in your favourite code editor.
 3. From the Terminal, run the command "npm run dev"
