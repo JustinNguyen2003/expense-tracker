@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### STEPS TO START EXPENSE TRACKER WEB APP
-1. Clone repo to your PC
+1. Fork repo to your computer.
 2. Open repo in your favourite code editor.
 3. From the Terminal, run the command "npm run dev"
