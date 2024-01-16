@@ -74,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. Fork repo to your computer.
 2. Open repo in your favourite code editor.
 3. From the Terminal, run the command "npm run dev"
+
+## Current Bugs:
+- DELETE Axios API call to database is currently throwing an error. POST and GET still work fine.
