@@ -11,7 +11,7 @@ export const AddTransaction = () => {
       e.preventDefault();
 
       const newTransaction = {
-        id: crypto.randomUUID(),
+        //id: crypto.randomUUID(),
         text,
         amount: +amount
       }
