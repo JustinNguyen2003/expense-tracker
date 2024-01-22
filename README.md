@@ -1,3 +1,26 @@
+### STEPS TO START EXPENSE TRACKER WEB APP
+1. Fork repo to your computer.
+2. Open repo in your favourite code editor.
+3. From the Terminal, change the directory to the 'expense-tracker' folder and run "npm install" and "npm run dev"
+4. The expense tracker web app will automatically open in your default browser.
+
+## Current Bugs:
+- DELETE Axios API call to database is currently throwing an error. POST and GET still work fine. So you currently can't delete a transaction.
+
+## To Implement:
+- A sign in feature to have functionality for multiple users.
+- Integrate Plaid API to get user's real banking information and automate the adding of transactions.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,10 +93,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### STEPS TO START EXPENSE TRACKER WEB APP
-1. Fork repo to your computer.
-2. Open repo in your favourite code editor.
-3. From the Terminal, run the command "npm run dev"
 
-## Current Bugs:
-- DELETE Axios API call to database is currently throwing an error. POST and GET still work fine.
